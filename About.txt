@@ -1,3 +1,5 @@
 The project gives the result of how many number of inputs are following the condition given in the code. 
 For now we have only one condition of Division.
 In details we are going to print the number of input for which the given number is divisible.
+Date: 11/09/21:
+Commited an addition in condition ie is number of prime number of enourmous input
